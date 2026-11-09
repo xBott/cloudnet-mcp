@@ -6,6 +6,7 @@ build/
 
 ### IntelliJ IDEA ###
 # IntelliJ's own .idea/.gitignore is not committed, so its rules live here instead.
+.idea
 .idea/.gitignore
 .idea/workspace.xml
 .idea/shelf/
